@@ -2,11 +2,11 @@
   "name": "hot-restaurant",
   "version": "1.0.0",
   "description": "app",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Dustin Hershman",
+  "author": "Doug Kellermeyer",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.2",
